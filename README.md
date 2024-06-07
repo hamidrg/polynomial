@@ -1,7 +1,7 @@
 # Polynomials
 * In this project, the polynomial class has been implemented, which supports most mathematical operations
 
-## Implemented mathematical operations in this project:
+## Implemented mathematical operations:
 *  Operator +
 * Operator -
 * Operator *
@@ -17,6 +17,8 @@
 * Operator [] (index operator for vector)
 * Operator << (overload ostream)
 * Operator >> (overload istream)
+
+Reading and writing in binary and text file was implemented.
 
 ### Main Menu
 1- New Polynomial
